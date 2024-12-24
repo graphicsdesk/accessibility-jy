@@ -279,7 +279,7 @@
         "cover_caption": "Madeline Wyatt, GS ’24, makes her way through the underground tunnels beneath Lewisohn Hall. Isabel Iino / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1aeKl5oFXTY1dJIy-Itx-QKG_WgRQykOIkZEruG4FPgs/edit?tab=t.0"
       }
