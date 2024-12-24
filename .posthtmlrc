@@ -240,6 +240,15 @@
             "value": "<b>‘Columbia with two feet’</b>"
           },
           {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZV3PMBIGRNHNVCKZRTBHTJPUBU.jpg",
+              "caption": "Several sections of the tunnels are adjoined to other areas of the building through  stairs",
+              "credit": "Isabel Iino / Staff Photographer"
+            }
+          },
+          {
             "type": "text",
             "value": "When Columbia restricted campus access in the spring, the University closed its main gates connecting College Walk to Amsterdam and Broadway. As a result, many wheelchair users had to find alternate routes to their classes. Other entrances, such as the gates by Earl and Carman Halls, have stairs and are not wheelchair accessible."
           },
